@@ -4,23 +4,350 @@ title: Calendar
 uid: cf40725a-580a-35e6-9d3b-1f4b14cdfbe8
 ---
 
-| Lec # | Topics |
-| --- | --- |
-|  {{< br >}}{{< br >}} 1 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Introduction {{< br >}}{{< br >}} Content of the Course {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 2 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Examples of Inverse Problems, Static and Time Dependent {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 3 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Basic Vector/Matrix Notation {{< br >}}{{< br >}} Algebraic Formulation {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 4-6 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Over/Underdetermined Problems {{< br >}}{{< br >}} Varieties of Least-Squares {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 7 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Basic Statistics {{< br >}}{{< br >}} Concepts and Notation {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 8 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Variances/Covariances {{< br >}}{{< br >}} Biases of Solutions {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 9 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Special Case of Eigenvector Solutions {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 10-11 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Singular Value Decomposition and Singular Vector Solutions {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 12-13 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Recursive Least-Squares {{< br >}}{{< br >}} Gauss-Markov Estimation; Recursive Estimation {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 14 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Time-dependent Models {{< br >}}{{< br >}} Whole Domain Least-Squares {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 15-16 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Sequential Methods (Kalman Filter/RTS Smoother) {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 16-17 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Control Problems {{< br >}}{{< br >}} Lagrange Multiplier (adjoint) Methods {{< br >}}{{< br >}} Non-linear Problems {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 18 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Stationary Processes {{< br >}}{{< br >}} Numerical Fourier Series/Transforms; Delta Functions {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 19 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Statistics of Fourier Representations {{< br >}}{{< br >}} Sampling {{< br >}}{{< br >}} Periodograms {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 20 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Convolution {{< br >}}{{< br >}} Power Density Spectral Estimates {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 21 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Coherence; Multiple Linear Regression {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 22 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Filtering, Prediction Problems {{< br >}}{{< br >}}  |
-|  {{< br >}}{{< br >}} 23-24 {{< br >}}{{< br >}}  |  {{< br >}}{{< br >}} Special Topics, Spillover {{< br >}}{{< br >}}
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Lec #
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+1
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Introduction
+
+Content of the Course
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+2
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Examples of Inverse Problems, Static and Time Dependent
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+3
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic Vector/Matrix Notation
+
+Algebraic Formulation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+4-6
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Over/Underdetermined Problems
+
+Varieties of Least-Squares
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+7
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Basic Statistics
+
+Concepts and Notation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+8
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Variances/Covariances
+
+Biases of Solutions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+9
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Special Case of Eigenvector Solutions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+10-11
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Singular Value Decomposition and Singular Vector Solutions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+12-13
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Recursive Least-Squares
+
+Gauss-Markov Estimation; Recursive Estimation
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+14
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Time-dependent Models
+
+Whole Domain Least-Squares
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+15-16
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sequential Methods (Kalman Filter/RTS Smoother)
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+16-17
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Control Problems
+
+Lagrange Multiplier (adjoint) Methods
+
+Non-linear Problems
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+18
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Stationary Processes
+
+Numerical Fourier Series/Transforms; Delta Functions
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+19
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Statistics of Fourier Representations
+
+Sampling
+
+Periodograms
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+20
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Convolution
+
+Power Density Spectral Estimates
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+21
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Coherence; Multiple Linear Regression
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+22
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Filtering, Prediction Problems
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+
+
+23-24
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Special Topics, Spillover
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
