@@ -5,6 +5,7 @@ description: 'This resource includes the following topics: Ensemble Methods and 
   Practicality.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/48c1b106fcf3f6eba94c1c08b7ece0c6_chap5.pdf
 file_type: application/pdf
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: chap5.pdf
 uid: 48c1b106-fcf3-f6eb-a94c-1c08b7ece0c6

@@ -4,6 +4,7 @@ description: This resource mainly discusses about the differential equations whi
   are often used to describe natural processes.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/0503b9dadcaf569faddddb2dfc34e5c1_differen_eq_1_1.pdf
 file_type: application/pdf
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: differen_eq_1_1.pdf
 uid: 0503b9da-dcaf-569f-addd-db2dfc34e5c1

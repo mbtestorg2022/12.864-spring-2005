@@ -4,6 +4,7 @@ description: This resource contains 5 problems based on Fourier transform, pseud
   Gaussian variates, and coherence.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/290bc734a99bda41b1884911f176cfd4_hmwk5.pdf
 file_type: application/pdf
+parent_uid: 12018fc7-cbee-1908-68cf-f8d44ce5a9fb
 resourcetype: Document
 title: hmwk5.pdf
 uid: 290bc734-a99b-da41-b188-4911f176cfd4

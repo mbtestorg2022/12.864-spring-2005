@@ -5,6 +5,7 @@ description: 'This resource contains the following topics:
   Exact Constraints, and Relation to Green Functions.'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/f25eeac417a090ddac77dd0400ab2bf2_least_sq_adj_2_6.pdf
 file_type: application/pdf
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: least_sq_adj_2_6.pdf
 uid: f25eeac4-17a0-90dd-ac77-dd0400ab2bf2

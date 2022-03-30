@@ -5,6 +5,7 @@ description: This resource has been primarily devoted to the principles underlyi
   implementation.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/51d2b63d2374b28797fbb77f935e987c_approximate_5_3.pdf
 file_type: application/pdf
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: approximate_5_3.pdf
 uid: 51d2b63d-2374-b287-97fb-b77f935e987c

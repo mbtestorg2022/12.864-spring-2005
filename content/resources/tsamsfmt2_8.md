@@ -4,6 +4,7 @@ description: This resource includes debate in climate and other studies concerns
   reality of trends in data.
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/12-864-inference-from-data-and-models-spring-2005/45e9039315a662c4807361d729b58899_tsamsfmt2_8.pdf
 file_type: application/pdf
+parent_uid: e31ddbff-1ff0-3bfb-0353-d7cdba211ac2
 resourcetype: Document
 title: tsamsfmt2_8.pdf
 uid: 45e90393-15a6-62c4-8073-61d729b58899
